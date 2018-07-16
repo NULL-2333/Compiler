@@ -1,0 +1,7 @@
+0	#-->expr0
+1	expr0-->expr
+2	expr-->expr-expr
+3	expr-->expr+expr
+4	expr-->expr*expr
+5	expr-->expr/expr
+6	expr-->DIGIT
