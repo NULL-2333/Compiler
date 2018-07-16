@@ -1,0 +1,19 @@
+int main ( )
+{
+    int x = 0 ;
+	int b = 2 ;
+	int c = 5 ;
+	int d = 6 ;
+	int a = b ;
+
+	if ( x < y )
+	{
+		int x = y ;
+	}
+	
+	while ( c > d )
+	{
+		int m = c / d ;
+		m = x + y ;
+	}
+}
