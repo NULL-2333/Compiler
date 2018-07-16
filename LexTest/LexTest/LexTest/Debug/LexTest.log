@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/6/6 20:10:32。
+     1>项目“C:\Users\user\Desktop\Seu\LexTest\LexTest\LexTest\LexTest.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt yylex.cpp
+         yylex.cpp
+     1>c:\users\user\desktop\seu\lextest\lextest\lextest\yylex.cpp(1798): warning C4129: “(”: 不可识别的字符转义序列
+     1>c:\users\user\desktop\seu\lextest\lextest\lextest\yylex.cpp(1798): warning C4129: “)”: 不可识别的字符转义序列
+     1>c:\users\user\desktop\seu\lextest\lextest\lextest\yylex.cpp(1806): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\user\desktop\seu\lextest\lextest\lextest\yylex.cpp(1832): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\user\desktop\seu\lextest\lextest\lextest\yylex.cpp(1775): warning C4715: “analysis”: 不是所有的控件路径都返回值
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Desktop\Seu\LexTest\LexTest\Debug\LexTest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Desktop\Seu\LexTest\LexTest\Debug\LexTest.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Desktop\Seu\LexTest\LexTest\Debug\LexTest.lib" /MACHINE:X86 Debug\yylex.obj
+         LexTest.vcxproj -> C:\Users\user\Desktop\Seu\LexTest\LexTest\Debug\LexTest.exe
+     1>已完成生成项目“C:\Users\user\Desktop\Seu\LexTest\LexTest\LexTest\LexTest.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.37

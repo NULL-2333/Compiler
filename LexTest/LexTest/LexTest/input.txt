@@ -1,0 +1,13 @@
+int main()
+{
+	int dou; int ji; double v; double x; double[100] ab;
+	while (true) {
+	do i = i+ 1;
+        continue;
+	while ( i == j ) 
+                 break;
+	
+	}
+	return 0;
+		
+}
