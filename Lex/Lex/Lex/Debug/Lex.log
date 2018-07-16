@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018/6/4 16:06:56。
+     1>项目“C:\Users\user\Desktop\Seu\Lex\Lex\Lex\Lex.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lex.cpp
+         Lex.cpp
+     1>c:\users\user\desktop\seu\lex\lex\lex\lex.cpp(315): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\user\desktop\seu\lex\lex\lex\lex.cpp(352): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\user\desktop\seu\lex\lex\lex\lex.cpp(374): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\user\desktop\seu\lex\lex\lex\lex.cpp(456): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\user\desktop\seu\lex\lex\lex\lex.cpp(698): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\user\desktop\seu\lex\lex\lex\lex.cpp(890): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\user\desktop\seu\lex\lex\lex\lex.cpp(896): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\user\desktop\seu\lex\lex\lex\lex.cpp(950): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\user\desktop\seu\lex\lex\lex\lex.cpp(976): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\user\desktop\seu\lex\lex\lex\lex.cpp(1028): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Desktop\Seu\Lex\Lex\Debug\Lex.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Desktop\Seu\Lex\Lex\Debug\Lex.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Desktop\Seu\Lex\Lex\Debug\Lex.lib" /MACHINE:X86 Debug\Lex.obj
+         Lex.vcxproj -> C:\Users\user\Desktop\Seu\Lex\Lex\Debug\Lex.exe
+     1>已完成生成项目“C:\Users\user\Desktop\Seu\Lex\Lex\Lex\Lex.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.37
